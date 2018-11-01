@@ -1,1 +1,1 @@
- this is the first commit that i will make 
+These are problems that I work on when I am bored, sometimes I start some before work to start my mind for the day.The problems solved are from multiple websites such as Project Euler, Hacker Rank, etc. If there are any better solutions that you would liek to submit please make a pull request. THESE ARE FOR MY ENJOYMENT AND I DO NOT BY ANY MEANS SAYING THESE ARE THE BEST WAYS TO SOLVE THEM. Most of them I solved with the first approach that came to mind. 
